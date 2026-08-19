@@ -28,6 +28,13 @@ You can also compile and run it in a single command:
 ```bash
 rustc  hello.rs && ./hello
 ```
+To store executables in a separate directory
+```
+mkdir bin
+rustc hello.rs -o bin/hello
+```
+By this we can just add the `bin` directory to `.gitignore` to prevent pushing executables to git.
+
 Why does this work?
 
 `rustc` is the official Rust compiler. It takes the Rust source code (.rs) and compiles it into a native executable.
