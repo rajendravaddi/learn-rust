@@ -1,2 +1,3 @@
 tuples.rs
 arrays.rs
+slices.rs

@@ -18,4 +18,7 @@ fn main(){
 
     println!("length : {}", array1.len());
 
+    let empty_array : [i32; 0] = [];
+    println!("{}", empty_array.len());
+
 }
