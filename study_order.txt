@@ -3,3 +3,4 @@ Basics
 conditional_loops
 fn_scope
 data_structures
+custom_types
