@@ -1,2 +1,8 @@
 structures.rs
 struct_example.rs
+enums_1.rs
+enums_2.rs
+enums_3.rs
+enums_4.rs
+enums_5.rs
+enum_6.rs
