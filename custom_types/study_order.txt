@@ -6,3 +6,4 @@ enums_3.rs
 enums_4.rs
 enums_5.rs
 enum_6.rs
+constants.rs
