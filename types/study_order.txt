@@ -2,3 +2,7 @@ casting.rs
 literals.rs
 inference.rs
 aliasing.rs
+from.rs
+into.rs
+tryfrom_tryinto.rs
+to_string.rs
